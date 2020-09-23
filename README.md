@@ -2,5 +2,5 @@
 
 Mockup page [Figma design](https://www.figma.com/file/Jryi2RU2LgK2bfwsxldABC/brand_of_eco-cosmetics-(Copy))
 
-[DEMO LINK](https://github.com/YuriiRysyn/Eco-cosmetics/)
+[DEMO LINK](https://yuriirysyn.github.io/Eco-cosmetics/)
 
